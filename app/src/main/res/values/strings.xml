@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hackwiz technologies</string>
+    <string name="log_in_with_facebook">log in with facebook</string>
+    <string name="log_in_with_gmail">log in with google</string>
+    <string name="sign_up_for_free">sign up for free</string>
+    <string name="log_in">log in?</string>
+    <string name="have_an_account">have an account?</string>
+    <string name="slogan">Simple Solutions for Complex Computer Connections</string>
+    <string name="co_name">hackwiz technologies</string>
+</resources>
